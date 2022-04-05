@@ -1,4 +1,4 @@
-## Outline
+## Topics
 
 ### Introduction
 - How modern web application works
@@ -18,7 +18,17 @@
 
 ## Assignments
 
-1. Get your hacking environment up and running
-2. Deploy Juice Shop application, run it and complete following steps:
- - Explore the functionality of the web application (paths, links, )
- - *👾* Find and access the scoreboard
+1. **Get your hacking environment up and running**
+2. **Deploy Juice Shop application, run it and complete following steps**
+   - Explore the content and functionality of the web application (this will make your life easier on further challenges): 
+     1) Content
+     2) Functionality
+     3) Paths
+     4) User roles
+     5) Are there any documents hosted on web app
+     6) GET/POST request parameters
+     7) Request headers
+     8) Entry points for user input
+     9) Tech stack and 3rd party components used
+   - Register yourself as a user
+   - *👾* Find and access the scoreboard
