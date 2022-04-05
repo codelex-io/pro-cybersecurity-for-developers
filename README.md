@@ -66,7 +66,7 @@ The more 👾👾👾, the harder it should be (but of course, depends on your p
     *If you are already using a Linux, technically you can skip this and install all the tools manually, but anyway VM is a way to go in case you break something (just revert from Snapshot and keep hacking).
 
 3. **Install the Juice Shop web application locally, so we have a 'real-life' web app running - there we will have demos and practice done:**
-- [Juice Shop] - Intentionally vulnerable AngularJS based web application (I would prefer to run it as a Docker container, but choose for yourself).
+- [Juice Shop] - Intentionally vulnerable AngularJS based web application.  [Install instructions](/resources/juice_shop_install.md)
 - Other vulnerable web apps could be used later in the course, but if needed we will install them later.
 
 4. **Get ready to intercept HTTP requests:**
