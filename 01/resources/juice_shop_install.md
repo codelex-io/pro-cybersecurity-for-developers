@@ -6,13 +6,13 @@ To run the Juice Shop locally you need to have Node.js installed on your compute
 
 Install Node.js on your computer.
 
-On the command line run git clone ```https://github.com/juice-shop/juice-shop.git --depth 1```.
+On the command line run ```git clone https://github.com/juice-shop/juice-shop.git --depth 1```.
 
-Go into the cloned folder with cd juice-shop
+Go into the cloned folder with ```cd juice-shop```
 
-Run npm install. This only has to be done before the first start or after you changed the source code.
+Run ```npm install```. This only has to be done before the first start or after you changed the source code.
 
-Run npm start to launch the application.
+Run ```npm start``` to launch the application.
 
 Browse to ```http://localhost:3000```
 
@@ -20,9 +20,9 @@ Browse to ```http://localhost:3000```
 
 Install a 64bit Node.js on your Windows, MacOS or Linux machine.
 
-Download *juice-shop-<version>_<node-version>_<os>_x64.zip* (or .tgz) attached to the latest release on GitHub.
+Download *juice-shop-<version>_<node-version>_<os>_x64.zip* (or .tgz) attached to the latest release on [GitHub].
 
-Unpack the archive and run npm start in unpacked folder to launch the application
+Unpack the archive and run ```npm start``` in unpacked folder to launch the application
 
 Browse to ```http://localhost:3000```
 
@@ -38,3 +38,7 @@ Run ```docker run -d -p 3000:3000 bkimminich/juice-shop``` to launch the contain
 Browse to ```http://localhost:3000```.
 
 If you are using Docker on Windows - inside a VirtualBox VM - make sure that you also enable port forwarding from host 127.0.0.1:3000 to 0.0.0.0:3000 for TCP.
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [GitHub]: <https://github.com/juice-shop/juice-shop/releases/latest>
