@@ -14,7 +14,7 @@ Such approach is all fine, but such a broad subject cannot realistically be cove
 
 So - in order to squeeze as much information as possible in our sessions, some of the 'hottest' topics will be discussed in greater detail (including practical exercises), while some will have be explained and additional research should be done by students themselves. 
 
-It's organized in following sections (on some sessions we could cover multiple topics, while some others could more time):
+It's organized in following sections (on some sessions we could cover multiple topics, while some others could take more time):
 
 - OWASP Top 10 (2021) vulnerabilities:
   - [ ]  A01:2021-Broken Access Control
