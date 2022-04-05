@@ -66,7 +66,7 @@ Basic understanding of how web application works and interacts with different se
 - Other vulnerable web apps could be used later in the course, but if needed we will install them later.
 
 4. Install Burp Suite Community Edition
-- [Burp Suite] - Intentionally vulnerable AngularJS based web application (I would prefer to run it as a Docker container, but choose for yourself).
+- [Burp Suite] - An integrated platform/graphical tool for performing security testing of web applications
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
