@@ -1,9 +1,11 @@
 ## Topics 
+
+---
 ```sh 
 DATE: 16/04/2022
 TIME: TBD
 ```
-```
+---
 ### Introduction
 - How modern web application works
 - Some background on OWASP framework
