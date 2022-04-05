@@ -22,3 +22,4 @@
 2. Deploy Juice Shop application, run it and complete following tasks:
  - TBD
  - TBD
+ - TBD
