@@ -59,7 +59,7 @@ Basic understanding of how web application works and interacts with different se
 - [VirtualBox] - Easy to install/use virtualization software (Win/MacOS/Linux)
 - [VMWare Player] - VMWare Windows software (Win/MacOS (called VMWare Fusion)/Linux)
 
-*If you are already using a Linux, technically you can skip this and install all the tools manually, but anyway VM is a way to go in case you break something (just revert from Snapshot and keep hacking).
+    *If you are already using a Linux, technically you can skip this and install all the tools manually, but anyway VM is a way to go in case you break something (just revert from Snapshot and keep hacking).
 
 3. Install the Juice Shop web application locally, so we have a 'real-life' web app running - there we will have demos and practice done:
 - [Juice Shop] - Intentionally vulnerable AngularJS based web application (I would prefer to run it as a Docker container, but choose for yourself).
