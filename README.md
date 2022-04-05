@@ -11,7 +11,7 @@ This relatively short course will cover some key elements on how to secure your 
 Most of the web app 'hacking' courses put main effort on teaching how to break applications.
 That approach is all fine, but such a broad subject cannot realistically be covered in 6 sessions.
 
-So - in order to squeeze as much information as possible in our sessions, some of the 'hottest' topics will be discussed in greater detail (including practical exercises), while some will have be explained and additional research should be done by students themselves. 
+So - in order to squeeze as much information as possible in our sessions, some of the 'hottest' topics will be discussed in greater detail (including practical exercises), while for some further research must be done by students themselves. 
 
 It's organized in following sections (on some sessions we could cover multiple topics, while some others could take more time):
 
