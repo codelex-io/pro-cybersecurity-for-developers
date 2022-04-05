@@ -1,5 +1,4 @@
-# Cybersec_4_Devs
-Cybersecurity for Developers / CODELEX 
+# Cybersecurity for Developers / CODELEX 
  
 | Contact | Data |
 |---------| ------ |
@@ -33,7 +32,7 @@ It's organized in following sections (on some sessions we could cover multiple t
   - [ ]  Brief coverage of network attacks
 - ✨ Some more magik if we have time left ✨
 
-## What is the plan
+## What's the plan
 As mentioned previously - everything cannot be fully covered in such a brief timespan, so we will have to adapt and improvise. Meaning - as much as possible practical demos will be done in sessions, leaving most of the student assignments as homeworks
 
 ## Requirements

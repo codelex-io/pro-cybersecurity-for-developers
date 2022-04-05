@@ -19,7 +19,6 @@
 ## Assignments
 
 1. Get your hacking environment up and running
-2. Deploy Juice Shop application, run it and complete following tasks:
- - TBD
- - TBD
- - TBD
+2. Deploy Juice Shop application, run it and complete following steps:
+ - Explore the functionality of the web application (paths, links, )
+ - *👾* Find and access the scoreboard
