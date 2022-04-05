@@ -1,8 +1,8 @@
-##Local installation
+## Local installation
 
 To run the Juice Shop locally you need to have Node.js installed on your computer. The Juice Shop officially runs on versions 12.x, 14.x, 16.x and 17.x of Node.js, closely following the official Node.js Long-term Support Release Schedule. During development and Continuous Integration (CI) the application is automatically tested with these current versions of Node.js. The officially recommended version to run Juice Shop is either the most recent Long-term Support (LTS) version or the Current Release version. Therefore Juice Shop recommends Node.js 16.x for its own v13.3.0 release.
 
-##From sources
+## From sources
 
 Install Node.js on your computer.
 
@@ -16,7 +16,7 @@ Run npm start to launch the application.
 
 Browse to ```http://localhost:3000```
 
-##From pre-packaged distribution
+## From pre-packaged distribution
 
 Install a 64bit Node.js on your Windows, MacOS or Linux machine.
 
@@ -26,7 +26,7 @@ Unpack the archive and run npm start in unpacked folder to launch the applicatio
 
 Browse to ```http://localhost:3000```
 
-##Docker image
+## Docker image
 
 You need to have Docker installed to run Juice Shop as a container inside it. Following the instructions below will download the current stable version (built from master branch on GitHub) which internally runs the application on the currently recommended Node.js version 16.x.
 
