@@ -65,8 +65,9 @@ Basic understanding of how web application works and interacts with different se
 - [Juice Shop] - Intentionally vulnerable AngularJS based web application (I would prefer to run it as a Docker container, but choose for yourself).
 - Other vulnerable web apps could be used later in the course, but if needed we will install them later.
 
-4. Install Burp Suite Community Edition
+4. Get ready to intercept HTTP requests:
 - [Burp Suite] - An integrated platform/graphical tool for performing security testing of web applications
+- [FoxyProxy Standard] - A firefox browser extension to quickly switch between browser proxy settings 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -76,3 +77,4 @@ Basic understanding of how web application works and interacts with different se
    [VMWare Player]: <https://www.vmware.com/se/products/workstation-player/workstation-player-evaluation.html>
    [Juice Shop]: <https://owasp.org/www-project-juice-shop/>
    [Burp Suite]: <https://portswigger.net/burp/documentation/desktop/getting-started>
+   [FoxyProxy Standard]: <https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search>
