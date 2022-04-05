@@ -1,7 +1,7 @@
 ## Topics 
-`16/04/2022`
 ```sh 
-16/04/2022
+DATE: 16/04/2022
+TIME: TBD
 ```
 ```
 ### Introduction
