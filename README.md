@@ -17,7 +17,7 @@ So - in order to squeeze as much information as possible in our sessions, some o
 It's organized in following sections (on some sessions we could cover multiple topics, while some others could more time):
 
 - OWASP Top 10 (2021) vulnerabilities:
-  - [ ] A01:2021-Broken Access Control
+  - [ ]  A01:2021-Broken Access Control
   - [ ]  A02:2021-Cryptographic Failures
   - [ ]  A03:2021-Injection
   - [ ]  A04:2021-Insecure Design
@@ -31,7 +31,7 @@ It's organized in following sections (on some sessions we could cover multiple t
   - [ ]  Risks of 3rd party code libraries
   - [ ]  Web application attack methodology
   - [ ]  Brief coverage of network attacks
-- ✨ Some more magik ✨
+- ✨ Some more magik if we have time left ✨
 
 ## What is the plan
 As mentioned previously - everything cannot be fully covered in such a brief timespan, so we will have to adapt and improvise. Meaning - as much as possible practical demos will be done in sessions, leaving most of the student assignments as homeworks
