@@ -1,5 +1,9 @@
 # Cybersec_4_Devs
 Cybersecurity for Developers / CODELEX 
+ 
+| Contact | Data |
+|---------| ------ |
+| e-mail  | m.akermanis@gmail.com |
 
 ## Intro
 
@@ -13,19 +17,20 @@ So - in order to squeeze as much information as possible in our sessions, some o
 It's organized in following sections (on some sessions we could cover multiple topics, while some others could more time):
 
 - OWASP Top 10 (2021) vulnerabilities:
-    - A01:2021-Broken Access Control
-    - A02:2021-Cryptographic Failures
-    - A03:2021-Injection
-    - A04:2021-Insecure Design
-    - A05:2021-Security Misconfiguration
-    - A06:2021-Vulnerable and Outdated Components 
-    - A07:2021-Identification and Authentication Failures
-    - A08:2021-Software and Data Integrity Failures
-    - A09:2021-Security Logging and Monitoring Failures
-    - A10:2021-Server-Side Request Forgery
-- Mapping the application
-- Risks of 3rd party code libraries
-- Brief coverage of network attacks
+  - [ ] A01:2021-Broken Access Control
+  - [ ]  A02:2021-Cryptographic Failures
+  - [ ]  A03:2021-Injection
+  - [ ]  A04:2021-Insecure Design
+  - [ ]  A05:2021-Security Misconfiguration
+  - [ ]  A06:2021-Vulnerable and Outdated Components 
+  - [ ]  A07:2021-Identification and Authentication Failures
+  - [ ]  A08:2021-Software and Data Integrity Failures
+  - [ ]  A09:2021-Security Logging and Monitoring Failures
+  - [ ]  A10:2021-Server-Side Request Forgery
+- Some additional stuff:
+  - [ ]  Risks of 3rd party code libraries
+  - [ ]  Web application attack methodology
+  - [ ]  Brief coverage of network attacks
 - ✨ Some more magik ✨
 
 ## What is the plan
