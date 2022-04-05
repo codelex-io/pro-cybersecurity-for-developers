@@ -8,7 +8,7 @@ This short course will cover some key elements on how to secure your code.
 Most of the 'hacking' courses put main effort on teaching how to break application.
 Such approach is all fine, but such a broad subject cannot realistically be covered in 6 sessions.
 
-So - in order to squeeze as much information as possible in our sessions, some of 'hottest' topics will be discussed in greater detail (including practical exercises), while some will have be explained and additional research should be done by students themselves. 
+So - in order to squeeze as much information as possible in our sessions, some of the 'hottest' topics will be discussed in greater detail (including practical exercises), while some will have be explained and additional research should be done by students themselves. 
 
 It's organized in following sections (on some sessions we could cover multiple topics, while some others could more time):
 
@@ -29,7 +29,7 @@ It's organized in following sections (on some sessions we could cover multiple t
 - ✨ Some more magik ✨
 
 ## What is the plan
-As mentioned previously - everything cannot be fully covered in such a brief time, so we will have to adapt and improvise. Meaning - as much practical demo will be done as possible, leaving most of the student assignments as homeworks
+As mentioned previously - everything cannot be fully covered in such a brief timespan, so we will have to adapt and improvise. Meaning - as much as possible practical demos will be done in sessions, leaving most of the student assignments as homeworks
 
 ## Requirements
 
@@ -60,9 +60,14 @@ Basic understanding of how web application works and interacts with different se
 - [Juice Shop] - Intentionally vulnerable AngularJS based web application (I would prefer to run it as a Docker container, but choose for yourself).
 - Other vulnerable web apps could be used later in the course, but if needed we will install them later.
 
+4. Install Burp Suite Community Edition
+- [Burp Suite] - Intentionally vulnerable AngularJS based web application (I would prefer to run it as a Docker container, but choose for yourself).
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Kali Linux]: <https://www.kali.org/get-kali/>
    [Parrot OS]: <https://parrotsec.org/docs/download-parrot.html>
    [VirtualBox]: <https://www.virtualbox.org/wiki/Downloads>
    [VMWare Player]: <https://www.vmware.com/se/products/workstation-player/workstation-player-evaluation.html>
+   [Juice Shop]: <https://owasp.org/www-project-juice-shop/>
+   [Burp Suite]: <https://portswigger.net/burp/documentation/desktop/getting-started>
