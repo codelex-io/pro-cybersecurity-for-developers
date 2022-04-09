@@ -28,9 +28,9 @@ It's organized in following sections (on some sessions we could cover multiple t
   - [ ]  A10:2021-Server-Side Request Forgery
 - Some additional stuff:
   - [ ]  Risks of 3rd party code libraries
-  - [ ]  Web application attack methodology
+  - [ ]  API security
   - [ ]  Brief coverage of network attacks
-- ✨ Some more magik if we have time left ✨
+- ✨ Some more magic if we have time left ✨
 
 ## What's the plan
 As mentioned previously - not everything can be fully covered in such a brief timespan, so we will have to adapt and improvise. 
@@ -56,7 +56,7 @@ The more 👾👾👾, the harder it should be (but of course, depends on your p
 
 ## How to get ready for the 1st session:
 
-1. **Install a virtualization hypervisor software on your PC. That way we will be able to have OS inside OS:**
+1. **Install a virtualization hypervisor software on your PC. That way we will be able to have guest OS inside host OS:**
 
 </br>Choose from one of these:
 - [VirtualBox] - Easy to install/use virtualization software (Win/macOS/Linux)
@@ -70,7 +70,7 @@ The more 👾👾👾, the harder it should be (but of course, depends on your p
   - [Kali Linux] - Most widely used Linux distro for cyber-sec
   - [Parrot OS] - Same features as Kali, so just a matter of preference
 
-3. **Install Docker, so we can run vulnerable web apps inside the Docker containers**:\
+3. **Install Docker, so we can run vulnerable web apps inside the Docker containers**:
  * [Install instructions](https://docs.docker.com/engine/install/debian/)
  
 4. **Install the Juice Shop web application as a Docker container, so we have a 'real-life' web app running - will have demos and practice done there:**
