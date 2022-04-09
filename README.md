@@ -44,35 +44,54 @@ The more 👾👾👾, the harder it should be (but of course, depends on your p
 
 **Basic understanding of how web application works and interacts with different services:**
 
-- HTTP GET/POST requests and headers
-- Basic JS
-- Basic SQL
-- Session handling
-- APIs
-- Basic web cryptography, like SSL/TLS
-- We will not have much time to play around with scripting, but Python is fun :)
+- [HTTP basics](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP)
+- [HTTP GET/POST requests and headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
+- [Basic JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [Basic SQL](https://www.dataquest.io/blog/sql-basics/)
+- [HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+- [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [Application program interface (API)](https://www.techtarget.com/searchapparchitecture/definition/RESTful-API)
+- [Basic cryptography (SSL/TLS)](https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security)
+- [We will not have much time to play around with scripting, but Python is fun :)](https://www.w3schools.com/python/python_intro.asp)
 
-## ToDo
+## How to get ready for the 1st session:
 
-1. **Since everybody knows that it's quite hard to do 'hacking' on Windows, we need some kind of Linux OS to get most of the tools working. You can choose from these two Debian based distros:**
+1. **Install a virtualization hypervisor software on your PC. That way we will be able to have OS inside OS:**
+
+- [VirtualBox] - Easy to install/use virtualization software (Win/macOS/Linux)
+- [VMware Player] - VMware Windows software (Win/macOS - called VMware Fusion/Linux)
+
+    *If you are already using a Linux, theoretically you can skip this and install all the tools manually, but anyway VM is a way to go in case you break something (just revert from Snapshot and keep hacking).
+
+2. **Install a Linux OS as a Virtual Machine in any of aforementioned software. Since everybody knows that it's quite hard to do 'hacking' on Windows, we need some kind of Linux OS to get most of the tools working. You can choose from these two Debian based distros:**
 - [Kali Linux] - Most widely used Linux distro for cyber-sec
 - [Parrot OS] - Same features as Kali, so just a matter of preference
 
-2. **You can install the Linux OS as a Virtual Machine on your host PC using any of these tools:**
+3. **Install Docker, so we can run vulnerable web apps inside the Docker containers**:\
+ * [Install instructions](https://docs.docker.com/engine/install/debian/)
+ 
+4. **Install the Juice Shop web application as a Docker container, so we have a 'real-life' web app running - will have demos and practice done there:**
+- [Juice Shop] - Intentionally vulnerable AngularJS based web application.  [Install instructions](/01/resources/juice_shop_install.md)\
+[+] Other vulnerable web apps could be used later in the course, but if needed we will install them later.
 
-- [VirtualBox] - Easy to install/use virtualization software (Win/macOS/Linux)
-- [VMware Player] - VMware Windows software (Win/macOS (called VMware Fusion)/Linux)
-
-    *If you are already using a Linux, technically you can skip this and install all the tools manually, but anyway VM is a way to go in case you break something (just revert from Snapshot and keep hacking).
-
-3. **Install the Juice Shop web application locally, so we have a 'real-life' web app running - there we will have demos and practice done:**
-- [Juice Shop] - Intentionally vulnerable AngularJS based web application.  [Install instructions](/01/resources/juice_shop_install.md)
-- Other vulnerable web apps could be used later in the course, but if needed we will install them later.
-
-4. **Get ready to intercept HTTP requests:**
+5. **Get ready to intercept HTTP requests (Kali linux should come with Burp Suite pre-installed, but please double-check):**
 - [Burp Suite Community Edition] - An integrated platform/graphical tool for performing security testing of web applications
 - [FoxyProxy Standard] - A firefox browser extension to quickly switch between browser proxy settings 
 
+6. **Deploy the Juice Shop application, run it and complete these steps**
+   - Thoroughly explore the web application (walk the "Happy Path" as this will make your life easier on solving the challenges). </br>Make mental notes on: 
+     1) Content
+     2) Functionality
+     3) Paths
+     4) User roles
+     5) Any files/documents hosted
+     6) GET/POST request parameters
+     7) Request headers
+     8) Entry points for user input
+     9) Tech stack and 3rd party components (like code libraries) used
+   - Register yourself as a new user
+   - *👾* Find a way to access the ScoreBoard page of the web app
+   
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Kali Linux]: <https://www.kali.org/get-kali/>
