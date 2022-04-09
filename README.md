@@ -52,6 +52,7 @@ The more 👾👾👾, the harder it should be (but of course, depends on your p
 - [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [Application program interface (API)](https://www.techtarget.com/searchapparchitecture/definition/RESTful-API)
 - [Basic cryptography (SSL/TLS)](https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security)
+- [Linux cli basics](https://ubuntu.com/tutorials/command-line-for-beginners#3-opening-a-terminal)
 - [We will not have much time to play around with scripting, but Python is fun :)](https://www.w3schools.com/python/python_intro.asp)
 
 ## How to get ready for the 1st session:
