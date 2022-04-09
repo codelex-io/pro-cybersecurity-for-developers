@@ -58,14 +58,17 @@ The more 👾👾👾, the harder it should be (but of course, depends on your p
 
 1. **Install a virtualization hypervisor software on your PC. That way we will be able to have OS inside OS:**
 
+</br>Choose from one of these:
 - [VirtualBox] - Easy to install/use virtualization software (Win/macOS/Linux)
 - [VMware Player] - VMware Windows software (Win/macOS - called VMware Fusion/Linux)
 
     *If you are already using a Linux, theoretically you can skip this and install all the tools manually, but anyway VM is a way to go in case you break something (just revert from Snapshot and keep hacking).
 
-2. **Install a Linux OS as a Virtual Machine in any of aforementioned software. Since everybody knows that it's quite hard to do 'hacking' on Windows, we need some kind of Linux OS to get most of the tools working. You can choose from these two Debian based distros:**
-- [Kali Linux] - Most widely used Linux distro for cyber-sec
-- [Parrot OS] - Same features as Kali, so just a matter of preference
+2. **Install a Linux OS as a Virtual Machine in any of aforementioned software. Since everybody knows that it's quite hard to do 'hacking' on Windows, we need some kind of Linux OS to get most of the tools working:**
+
+</br>Choose from one of these:
+  - [Kali Linux] - Most widely used Linux distro for cyber-sec
+  - [Parrot OS] - Same features as Kali, so just a matter of preference
 
 3. **Install Docker, so we can run vulnerable web apps inside the Docker containers**:\
  * [Install instructions](https://docs.docker.com/engine/install/debian/)
