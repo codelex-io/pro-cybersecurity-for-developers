@@ -2,10 +2,13 @@
 
 ---
 ```sh 
-DATE: 13/04/2022
-TIME: TBD
+DATE: 19/04/2022
+TIME: 18:00
 ```
 ---
+### Link to presentation
+https://slides.com/martinsakermanis/cyber-security-for-developers
+
 ### Introduction
 - How modern web application works
 - Some background on OWASP framework
